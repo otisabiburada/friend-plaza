@@ -98,10 +98,6 @@ Check setup and Save diagnostics (`~/Downloads/friend-plaza-diagnostics.txt`, no
 split into `src/plaza/` (action bar, side menu, people, camera, walking, quality, server check-ins). Tests are in
 `tests/` (see `tests/README.md`).
 
-## Not confirmed on a real Deck yet
-Stick/D-pad walking, zoom and card focus with the controller, frame rate and the Auto quality tuning, and the real
-Steam sign-in.
-
 ## For developers
 `dist/index.js` is committed, so users never build. To change the plugin: edit `src/`, run `pnpm i && pnpm build`,
 commit `dist/`, and see `RELEASING.md`. Tests: `python3 tests/test_modules.py` and `tests/README.md`.
