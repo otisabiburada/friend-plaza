@@ -1,0 +1,14 @@
+{
+  "name": "Friend Plaza",
+  "author": "SANSO",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "utility",
+      "customization"
+    ],
+    "description": "A town square for the friends who use the same plugin: 3D characters, minigames, points and a character store.",
+    "image": ""
+  }
+}

@@ -1,0 +1,3 @@
+# The Friend Plaza server this plugin talks to (one address per line; the first valid one is used).
+# Change it only if your group runs its own server. Settings > Online can override it too.
+https://friend-plaza.arasahneiletisim.workers.dev
